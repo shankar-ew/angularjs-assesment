@@ -1,0 +1,5 @@
+com\covid\dashboard\services\MyBatisUtil.class
+com\covid\dashboard\domain\User.class
+com\covid\dashboard\mapper\UserMapper.class
+com\covid\dashboard\services\UserService.class
+com\covid\dashboard\rest\UserRestService.class
